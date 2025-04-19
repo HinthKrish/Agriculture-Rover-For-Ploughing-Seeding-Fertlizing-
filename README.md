@@ -1,4 +1,6 @@
 # Agriculture-Rover-For-Ploughing-Seeding-Fertlizing-
+PATENT:                                                                                                                                                                                                           
+INVENTOR: Hinthkrish R
 
 Objective
 To create a low-cost, easy-to-use farming rover that assists farmers with essential fieldwork and improves productivity with minimal physical effort.
